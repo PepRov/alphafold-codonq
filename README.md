@@ -49,7 +49,7 @@ Mirdita M, Schütze K, Moriwaki Y, Heo L, Ovchinnikov S, Steinegger M.
 
 ## Modifications
 
-This notebook has been modified to accept a FASTA file uploaded directly from an iOS app to a public GitHub Gist. The Colab notebook automatically fetches the latest sequence (e.g., `MYSEQUENCE.fasta`) via the raw Gist URL — removing the need for manual uploads.
+This notebook has been modified to accept a FASTA file uploaded directly from an iOS app to a public GitHub Gist. The Colab notebook automatically fetches the latest sequence (e.g., `MYSEQUENCE_CodonQ.fasta`) via the raw Gist URL — removing the need for manual uploads.
 
 ---
 
